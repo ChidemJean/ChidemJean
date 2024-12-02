@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm current working as a Full Stack Engineer at Creare Sistemas<br>👨‍💻 As a hobby, I develop games in C# on Godot Engine in my free time<br>👀 In past work, I have developed around 130 web systems/sites from the most diverse sectors and complexity during 9 years. Using various technologies. Frameworks: Symfony and Laravel. ORMs: Doctrine and Eloquent. Template engines: Twig and Blade. Frontend: ReactJS, SCSS, and TailwindCSS.
+💼 I'm current working as a Full Stack Developer at Creare Sistemas<br>👨‍💻 As a hobby, I develop games in C# on Godot Engine in my free time<br>👀 In past work, I have developed around 130 web systems/sites from the most diverse sectors and complexity during 9 years. Using various technologies. Frameworks: Symfony and Laravel. ORMs: Doctrine and Eloquent. Template engines: Twig and Blade. Frontend: ReactJS, SCSS, and TailwindCSS.
 <br>🎮 I currently have 2 games in internal testing on the play store, one of them in an advanced stage. You can send me a request to jeanchidem2@gmail.com to sign up for the testers group
 
 
